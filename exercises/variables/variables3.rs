@@ -4,7 +4,7 @@
 // hint.
 
 
-
+const abcdefg:i8=7;
 fn main() {
     let x: i8 = 25;
     println!("Number {x}");

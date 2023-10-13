@@ -4,7 +4,7 @@
 // hint.
 
 
-
+const abcdefg:i8=7;
 fn main() {
     call_me(8);
 }

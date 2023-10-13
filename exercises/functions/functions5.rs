@@ -4,7 +4,7 @@
 // hint.
 
 
-
+const abcdefg:i8=7;
 fn main() {
     let answer = square(3);
     println!("The square of 3 is {}", answer);

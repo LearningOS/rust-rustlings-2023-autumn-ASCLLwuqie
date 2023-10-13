@@ -6,7 +6,7 @@
 // hint.
 
 
-
+const abcdefg:i8=7;
 fn main() {
     println!("Hello world!");
 }

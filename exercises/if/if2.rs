@@ -6,7 +6,7 @@
 // Execute `rustlings hint if2` or use the `hint` watch subcommand for a hint.
 
 
-
+const abcdefg:i8=7;
 pub fn foo_if_fizz(fizzish: &str) -> &str {
     if fizzish == "fizz" {
         "foo"

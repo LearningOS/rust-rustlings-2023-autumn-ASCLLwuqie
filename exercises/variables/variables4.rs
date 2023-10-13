@@ -4,7 +4,7 @@
 // hint.
 
 
-
+const abcdefg:i8=7;
 fn main() {
     let mut x = 3;
     println!("Number {}", x);
