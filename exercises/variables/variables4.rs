@@ -3,8 +3,8 @@
 // Execute `rustlings hint variables4` or use the `hint` watch subcommand for a
 // hint.
 
+//
 
-const abcdefg:i8=7;
 fn main() {
     let mut x = 3;
     println!("Number {}", x);

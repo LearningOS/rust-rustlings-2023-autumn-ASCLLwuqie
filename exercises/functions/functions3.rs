@@ -3,10 +3,10 @@
 // Execute `rustlings hint functions3` or use the `hint` watch subcommand for a
 // hint.
 
+// 
 
-const abcdefg:i8=7;
 fn main() {
-    call_me(8);
+    call_me(2);
 }
 
 fn call_me(num: u32) {

@@ -5,7 +5,7 @@
 // Execute `rustlings hint strings1` or use the `hint` watch subcommand for a
 // hint.
 
-
+// 
 
 fn main() {
     let answer = current_favorite_color();
@@ -13,6 +13,5 @@ fn main() {
 }
 
 fn current_favorite_color() -> String {
-    let mut a:String = "blue".to_string();
-    a
+    "blue".to_string()
 }
